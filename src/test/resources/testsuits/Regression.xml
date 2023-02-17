@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression" parallel="tests" thread-count="1">
+    <test name="TC001">
+        <classes>
+            <class name="com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM" />
+        </classes>
+    </test>
+    <test name="TC002">
+        <classes>
+            <class name="com.opensource.admin.qa.TC002_Admin_SearchEmployee_NotExist_POM" />
+        </classes>
+    </test>
+    <test name="TC003">
+        <classes>
+            <class name="com.opensource.admin.qa.TC003_Admin_AddNewUser_POM" />
+        </classes>
+    </test>
+</suite>

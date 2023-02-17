@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [Regression]" guice-stage="DEVELOPMENT">
+  <test thread-count="1" parallel="tests" name="TC003(failed)">
+    <classes>
+      <class name="com.opensource.admin.qa.TC003_Admin_AddNewUser_POM">
+        <methods>
+          <include name="TC003_Admin_AddNewUser_POM"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.opensource.admin.qa.TC003_Admin_AddNewUser_POM -->
+    </classes>
+  </test> <!-- TC003(failed) -->
+</suite> <!-- Failed suite [Regression] -->

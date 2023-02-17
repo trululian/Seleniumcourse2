@@ -1,0 +1,10 @@
+{
+  "TC003_Admin_AddNewUser_POM":
+  {
+    "newUserName":"PCTestUser",
+    "existingUser":"Clara Boat" ,
+    "userRole":"ESS",
+    "userStatus":"Enabled",
+    "newPassword": "Test1234*"
+  }
+}

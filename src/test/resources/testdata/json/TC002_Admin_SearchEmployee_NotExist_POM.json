@@ -1,0 +1,6 @@
+{
+  "TC002_Admin_SearchEmployee_NotExist_POM":
+  {
+    "searchuser": "XYZ"
+  }
+}

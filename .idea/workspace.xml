@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f237ee7-c8ef-48a5-80e6-dbdac87130cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Default Suite/Seleniumcourse2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Default Suite/Seleniumcourse2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Default Suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Regression/TC001.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Regression/TC001.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Regression/TC002.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Regression/TC002.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Regression/TC003.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Regression/TC003.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Regression/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/junitreports/TEST-com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/junitreports/TEST-com.opensource.admin.qa.TC002_Admin_SearchEmployee_NotExist_POM.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/junitreports/TEST-com.opensource.admin.qa.TC003_Admin_AddNewUser_POM.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/junitreports/TEST-com.opensource.admin.qa.TC004_Admin_DeleteUser_POM.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Default Suite/Seleniumcourse2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Default Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Default Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Default Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Default Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Default Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Default Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Default Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Default Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Default Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Regression/TC001.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Regression/TC002.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Regression/TC003.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Regression/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Regression/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Regression/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Regression/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Regression/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Regression/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Regression/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Regression/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Regression/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/Regression/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/testng-reports1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/testng-reports2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opensource/base/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opensource/base/GlobalVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opensource/pages/AdminPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opensource/pages/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opensource/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opensource/pages/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/google/firtsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/opensource/admin/qa/TC001_Admin_SearchEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/opensource/admin/qa/TC001_Admin_SearchEmployee_POM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/opensource/admin/qa/TC002_Admin_SearchEmployee_NotExist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/opensource/admin/qa/TC002_Admin_SearchEmployee_NotExist_POM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/opensource/admin/qa/TC003_Admin_AddNewUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/opensource/admin/qa/TC003_Admin_AddNewUser_POM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/opensource/admin/qa/TC004_Admin_DeleteUser_POM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/TC001_Admin_SearchEmployee_POM.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/excel/TestData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/excel/~$TestData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/json/LoginCredentials.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/json/TC002_Admin_SearchEmployee_NotExist_POM.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/json/TC003_Admin_AddNewUser_POM.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/json/TC004_Admin_DeleteUser_POM.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testsuits/Regression.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="Seleniumcourse2" />
+                    <option name="lastUsedInstant" value="1674235280" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1674235279" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KbEGVIpf3VJk1RBZkifweIIrkz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/julia/OneDrive - utadeo.edu.co/Selenium + java course/SeleniumCourse/Seleniumcourse2",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jpardo\SeleniumCourse\Seleniumcourse2\src\test\resources\testdata\json" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jpardo\SeleniumCourse\Seleniumcourse2\src\test\resources\drivers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.opensource.admin.qa" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TC002_Admin_SearchEmployee_NotExist_POM">
+    <configuration name="C:/Users/jpardo/SeleniumCourse/Seleniumcourse2/src/test/resources/testsuits/Regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testsuits/Regression.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\jpardo\SeleniumCourse\Seleniumcourse2\output" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC001_Admin_SearchEmployee_POM" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.opensource.admin.qa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.opensource.admin.qa" />
+      <option name="MAIN_CLASS_NAME" value="com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\jpardo\SeleniumCourse\Seleniumcourse2\output" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC002_Admin_SearchEmployee_NotExist" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.opensource.admin.qa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.opensource.admin.qa" />
+      <option name="MAIN_CLASS_NAME" value="com.opensource.admin.qa.TC002_Admin_SearchEmployee_NotExist" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC002_Admin_SearchEmployee_NotExist_POM" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.opensource.admin.qa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.opensource.admin.qa" />
+      <option name="MAIN_CLASS_NAME" value="com.opensource.admin.qa.TC002_Admin_SearchEmployee_NotExist_POM" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC003_Admin_AddNewUser" type="TestNG" nameIsGenerated="true">
+      <module name="seleniumProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.opensource.admin.qa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.opensource.admin.qa" />
+      <option name="MAIN_CLASS_NAME" value="com.opensource.admin.qa.TC003_Admin_AddNewUser" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\jpardo\SeleniumCourse\Seleniumcourse2\output" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC003_Admin_AddNewUser_POM" type="TestNG" nameIsGenerated="true">
+      <module name="seleniumProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.opensource.admin.qa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.opensource.admin.qa" />
+      <option name="MAIN_CLASS_NAME" value="com.opensource.admin.qa.TC003_Admin_AddNewUser_POM" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\jpardo\SeleniumCourse\Seleniumcourse2\output" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC004_Admin_DeleteUser_POM" type="TestNG" nameIsGenerated="true">
+      <module name="seleniumProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.opensource.admin.qa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.opensource.admin.qa" />
+      <option name="MAIN_CLASS_NAME" value="com.opensource.admin.qa.TC004_Admin_DeleteUser_POM" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\jpardo\SeleniumCourse\Seleniumcourse2\output" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="TestNG" nameIsGenerated="true">
+      <module name="seleniumProject" />
+      <shortenClasspath name="NONE" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\jpardo\SeleniumCourse\Seleniumcourse2\output" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.opensource.admin.qa" type="TestNG" nameIsGenerated="true">
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.opensource.admin.qa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.opensource.admin.qa" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\jpardo\SeleniumCourse\Seleniumcourse2\output" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TC004_Admin_DeleteUser_POM" />
+      <item itemvalue="TestNG.TC003_Admin_AddNewUser" />
+      <item itemvalue="TestNG.TC003_Admin_AddNewUser_POM" />
+      <item itemvalue="TestNG.com.opensource.admin.qa" />
+      <item itemvalue="TestNG.Unnamed" />
+      <item itemvalue="TestNG.TC002_Admin_SearchEmployee_NotExist" />
+      <item itemvalue="TestNG.TC002_Admin_SearchEmployee_NotExist_POM" />
+      <item itemvalue="TestNG.C:/Users/jpardo/SeleniumCourse/Seleniumcourse2/src/test/resources/testsuits/Regression.xml" />
+      <item itemvalue="TestNG.TC001_Admin_SearchEmployee_POM" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TC002_Admin_SearchEmployee_NotExist_POM" />
+        <item itemvalue="TestNG.TC002_Admin_SearchEmployee_NotExist" />
+        <item itemvalue="TestNG.TC001_Admin_SearchEmployee_POM" />
+        <item itemvalue="TestNG.C:/Users/jpardo/SeleniumCourse/Seleniumcourse2/src/test/resources/testsuits/Regression.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f237ee7-c8ef-48a5-80e6-dbdac87130cd" name="Changes" comment="" />
+      <created>1674234790283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674234790283</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
